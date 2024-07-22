@@ -5,7 +5,7 @@
 - 🌍 I live in Leon, Spain.
 - 🎸 Foo Fighters, movies & videogames.
 - 👀 Unravelling data science.
-- <img src=https://slackmojis.com/emojis/4954-delorean/download width="32" height="30"> 'Roads? Where we're going we don't need roads...'
+- <img src=https://slackmojis.com/emojis/4954-delorean/download width="32" height="28"> 'Roads? Where we're going we don't need roads...'
 - <img src=http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png width="28" height="28"> 'May the Force be with you...
 - 🍀 Veganism as a way of life.
 
