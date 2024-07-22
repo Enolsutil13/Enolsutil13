@@ -6,7 +6,8 @@
 - 🎸 Foo Fighters, movies & videogames.
 - 👀 Unravelling data science.
 - ![delorean (1)](https://github.com/user-attachments/assets/c1f85ccd-4d96-4a0c-835e-955f7e18b7c7) 'Roads? Where we're going we don't need roads...'
-- ![purplelightsaber](https://github.com/user-attachments/assets/5eefa291-c2b3-4a25-a686-2d11acb1d320) 'May the Force be with you...
+- ![image](https://github.com/user-attachments/assets/33a10265-1300-424a-b659-aeb3c72b7808)
+ 'May the Force be with you...
 - 🍀 Veganism as a way of life.
 
 
@@ -17,5 +18,5 @@
 ## 📚 Python Main Libraries:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-[<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/tKdrtcwWTyoRd7KhPl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/back-to-the-future-bttf-delorian-tKdrtcwWTyoRd7KhPl">via GIPHY</a></p>](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxmMmswMzBteTdnbTl3MGhyMWtqYTg5cThseTNobjkxNjUxcXJpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tKdrtcwWTyoRd7KhPl/giphy-downsized-large.gif)
+<center> <img src="https://giphy.com/gifs/back-to-the-future-bttf-delorian-tKdrtcwWTyoRd7KhPl"></center> <br><br>
 
